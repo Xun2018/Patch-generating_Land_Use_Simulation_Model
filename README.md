@@ -9,7 +9,7 @@ link：https://pan.baidu.com/s/1xZWSZB-Z8LIKaRSCjihcbw
 code：g2xh 
 
 # More Information
-https://xun2018.github.io/
+https://xungst.github.io/
 
 # Interfaces
 ![add image](https://github.com/HPSCIL/Patch-generating_Land_Use_Simulation_Model/raw/master/pic1.png)
